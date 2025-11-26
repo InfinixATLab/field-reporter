@@ -8,7 +8,7 @@
 **Stack**: DRF + React Native + Expo Go + Axios
 **Escopo**: Um app para técnicos de campo reportarem problemas com equipamentos.
 
-## Requisitos Essenciais (Timebox 6h)
+## Requisitos Essenciais (Timebox 4h)
 
 #### Backend
 
